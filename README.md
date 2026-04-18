@@ -1,7 +1,5 @@
-# imdb-sql-movie-industry-analysis
-Analysis of global movie industry trends using SQL. Performed complex data extraction and relational database querying to uncover insights on genre performance, regional market dominance, and actor success
-
 # IMDb Movie Industry Analysis
+Analysis of global movie industry trends using SQL. Performed complex data extraction and relational database querying to uncover insights on genre performance, regional market dominance, and actor success
 
 # Project Overview
 This project involves a comprehensive exploratory data analysis (EDA) of the global movie industry using a large-scale IMDb database. By executing complex SQL queries, I analyzed trends in production volumes, genre performance, and regional market dominance to extract data-driven insights.
